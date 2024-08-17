@@ -1,0 +1,21 @@
+body{
+    background: url('./imagens/fundo.png');
+}
+
+#navegacao{
+    background-color: #aaaa85;
+    height: 100px;
+    width: 1200px;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(47, 49, 85);
+    font-family: fantasy;
+}
+.text{
+    width: 1200px;
+}
+
+#rodape{
+    text-align: center;
+    font-weight: bold;
+}
